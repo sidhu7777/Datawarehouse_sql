@@ -100,6 +100,6 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-##🌟 About Me
+## 🌟 About Me
 
 Hi! I'm **Vineeth Raja Banala**, a passionate data science and project management enthusiast with a Master's in Data Science from Heriot-Watt University. I aim to bridge the gap between data analysis and actionable insights to drive business decisions.
