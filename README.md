@@ -11,7 +11,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-## 📖 Project Overview
+##  Project Overview
 
 This project involves:
 
@@ -20,7 +20,7 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+ This repository is an excellent resource for professionals and students looking to showcase expertise in:
 - SQL Development
 - Data Architect
 - Data Engineering  
@@ -30,18 +30,18 @@ This project involves:
 
 ---
 
-## 🛠️ Important Links & Tools:
+## Important Links & Tools:
 
 Everything is for Free!
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 - **[Git Repository]([https://github.com/](https://github.com/sidhu7777/Datawarehouse_sql/)):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-- 
+  
 
 ---
 
-## 🚀 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -96,10 +96,10 @@ data-warehouse-project/
 ---
 
 
-## 🛡️ License
+##  License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+##  About Me
 
 Hi! I'm **Vineeth Raja Banala**, a passionate data science and project management enthusiast with a Master's in Data Science from Heriot-Watt University. I aim to bridge the gap between data analysis and actionable insights to drive business decisions.
